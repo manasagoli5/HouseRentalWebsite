@@ -1,0 +1,85 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+    .back {
+      background: #e2e2e233;
+      width: 100%;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+    }
+    
+    .div-center {
+      width: 500px;
+      height: 400px;
+      background-color: #fff;
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      margin: auto;
+      max-width: 100%;
+      max-height: 100%;
+      overflow: auto;
+      padding: 1em 2em;
+      border-bottom: 2px solid #ccc;
+      display: table;
+    }
+    
+    div.content {
+      display: table-cell;
+      vertical-align: middle;
+    }
+    
+    .login_heading {
+        color: #59743a;
+    }
+    .btn-primary {
+        background-color: #e2a432;
+        border-color: #e2a432;
+    }
+
+    .btn-danger {
+      background-color: #c03440c4 !important;
+      border-color: #c03440c4 !important;
+    }
+
+    .labelname {
+      color: #c03440c4 !important;
+    }
+
+    #intro {
+      background-image: url("https://images.pexels.com/photos/7578939/pexels-photo-7578939.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+      background-size: cover;
+      background-position:center center;
+      height: 100vh;
+    }
+
+    .navbar-light .navbar-brand {
+      color: rgb(255 255 255 / 90%) !important;
+      font-size: 20px !important;
+  }
+  .page_heading {
+    text-align:center;
+    color: white;
+    margin-top: 4%;
+
+  }
+
+  .table td {
+    align-items: center;
+    text-align:center;
+  }
+
+  .norating {
+    margin: 42%;
+    font-size: 18px;
+    text-align: center;
+  }
+
+  body {
+    text-transform: capitalize;
+  }
+
+  p {
+    text-transform: capitalize !important;
+  }
